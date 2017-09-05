@@ -6,3 +6,5 @@ este repositorio √© apenas para mapear algumas portas e mapear a pasta de conte√
 docker-compose build   
 
 dccker-compose up -d  
+
+[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg)](https://github.com/marroocamp/Jenkins)  [![Docker Build Statu](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://github.com/marroocamp/Jenkins)
